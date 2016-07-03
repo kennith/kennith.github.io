@@ -1,0 +1,19 @@
+{
+  "name": "kennith.github.io",
+  "version": "1.0.0",
+  "description": "This is my home page.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kennith/kennith.github.io.git"
+  },
+  "author": "Kennith Leung",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kennith/kennith.github.io/issues"
+  },
+  "homepage": "https://github.com/kennith/kennith.github.io#readme",
+  "devDependencies": {
+    "browser-sync": "^2.13.0",
+    "gulp": "^3.9.1"
+  }
+}
