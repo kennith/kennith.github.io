@@ -49,5 +49,7 @@ $on-laptop:        800px;
 @import
         "base",
         "layout",
-        "syntax-highlighting"
+        "syntax-highlighting",
+        "main"
 ;
+@import "../bower_components/bootstrap-sass/assets/stylesheets/bootstrap";
