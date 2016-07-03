@@ -1,0 +1,21 @@
+{
+  "name": "kennith.github.io",
+  "description": "This is my home page.",
+  "main": "",
+  "authors": [
+    "Kennith Leung"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/kennith/kennith.github.io",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "bootstrap-sass": "^3.3.6"
+  }
+}

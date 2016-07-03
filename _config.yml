@@ -18,4 +18,4 @@ github_username:  kennith
 # Build settings
 markdown: kramdown
 
-exclude: ['gulpfile.js', 'node_modules', 'package.json', 'README.md']
+exclude: ['node_modules', 'bower_component', 'gulpfile.js', 'package.json', 'README.md', 'bower.json']
