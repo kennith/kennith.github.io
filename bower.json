@@ -16,6 +16,7 @@
     "tests"
   ],
   "devDependencies": {
-    "bootstrap-sass": "^3.3.6"
+    "bootstrap-sass": "^3.3.6",
+    "jquery": "2"
   }
 }
