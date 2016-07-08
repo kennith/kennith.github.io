@@ -10,9 +10,9 @@ $spacing-unit:     30px;
 }
 
 
+@import "../bower_components/bootstrap-sass/assets/stylesheets/bootstrap";
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
         "syntax-highlighting",
         "main"
 ;
-@import "../bower_components/bootstrap-sass/assets/stylesheets/bootstrap";

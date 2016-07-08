@@ -1,0 +1,35 @@
+---
+layout: post
+title:  "AWS re:Invent 2015"
+date:   2015-10-25 10:06:00
+categories: aws reinvent
+---
+
+Another year at the AWS annual conference in Las Vegas, NV. 
+
+I have been attending the AWS conference since the first one. The first conference was pretty empty in the huge Sands Expo. It has been growing annually ever since. The second year I already thought the Sands Expo was reaching its capacity and this year, I think AWS needs two Sands Expo to hold its annual conference. 
+
+Anyway, get my frustration out of the way and focus on the event itself. 
+
+As usual in the past, there are some activities before the actual conference starts such as GameDay and Hackathon. The Hackathon is pretty much like other hackathon. The event gears towards developers. The GameDay event is to build a secure infrastructure. I think there are more people in the GameDay because there are more DevOps in the AWS. I attended the hackathon and I think developers will have a blast, but the DevOps might probably have more fun in the GameDay.
+
+The Expo on Tuesday is pretty much packed. It changed the location to a bigger venue this year, but it has not really eased up the big crowd. The Nike booth was very popular, the AWS booth was very attractive, Github, Dropbox, Ngnix, Docker, and StackOverflow were in the expo to my surprise. 
+
+The Wednesday and Thursday all started with keynotes. It's pretty non-event. Product announcement and customers stories. If it's the first time going, it's worth to experience the keynote. Otherwise, it's better to just go to the overflow room, or even at a coffee shop in the hotel area to avoid the overcrowded hall. 
+
+Again, the conference classes are targeting different groups according to their level of experience with AWS. 100 are basically classes that tell you what the service is. 200 and 300 are classes that tell you how to do it. 400 advance classes that are more suitable for senior engineer or manager to have an idea about what to do or how to improve with the particular AWS service.  
+
+The most popular classes are DevOps classes. If it's labeled with Docker, it will be packed. If it's spoken by an AWS engineer, it's most likely 80% full. The attendees are avoiding classes that has non-AWS engineer, it's because they felt like they were at a sales pitch class instead of learning something new. 
+
+Thursday evening is re:Play. As always, it had games and food. Another DJ. I just walked in, ate some food for dinner, got a T-Shirt, play some game and gone. Too crowded and too hot. 
+
+Maybe people spent too much energy in re:Play. Friday crowd was significantly smaller. As the reason, I hoped AWS will put more popular classes on Friday. 
+
+If you are serious about AWS, you should attend re:Invent. Unless AWS can magically scale the Sands Expo, I recommend the following in re:Invent 2016:
+
+1. You should save your energy by watching the keynote in the overflow room or your hotel room.
+2. Go to the Expo on the second day so you can really talk to the vendors.
+3. Most classes video are posted on-line, unless you want to speak to the speaker, you don't really necessary to attend. Meet the AWS engineer in the expo instead. 
+4. Go to re:Play early and leave early. Unless you like the DJ. 
+5. DevOps: Don't go to hackathon. 
+6. Developers: Don't go to GameDay. 

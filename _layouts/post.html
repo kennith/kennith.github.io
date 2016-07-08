@@ -7,10 +7,10 @@ layout: default
 		<div class="page-header" itemprop="name headline">
 			<h1>
 				{{ page.title }}
-				<small>
-				<time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>
-				</small>
 			</h1>
+			<small>
+				<time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>
+			</small>
 		</div>
 		{% if page.author %}
 		<span itemprop="author" itemscope itemtype="http://schema.org/Person">

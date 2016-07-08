@@ -24,6 +24,7 @@ gulp.task('bootstrap:update', function() {
 * Needs to watch the changes in site?
 */
 gulp.task('watch', function() {
+	var date = new Date();
 	browserSync.init({
 		proxy: "127.0.0.1:4000",
 		online: false,

@@ -1,0 +1,11 @@
+---
+layout: post 
+title: "Code Conf 2016"
+---
+Code Conf LA start off with 3 workshops included topics with innersource, neo4j, and dissecting git. 
+
+[Cedric](twttier.com/AskCedricW) introduced the working of innersource in paypal. How to build this culture within the company. Who to talk to and how to find support to create an innersource culture. 
+
+[Nick](https://twitter.com/mapmeld) introduced an amazing platform to help visualizing data called Neo4j. I thought this is important because it really helps non technical people to see what the data are representing. How each data connected to each other. How each data rely on each other. 
+
+[Emily](https://twitter.com/emilyxxie) introduced the Git's low level working commands. I have personally never thought of there's a low level commands in Git. I just found out I have been using the porcelain commands. After some hands on lab, I understand more about how Git works. (By the way, the [Git Internal](https://git-scm.com/book/en/v2/Git-Internals-Plumbing-and-Porcelain) is chapter 10)
