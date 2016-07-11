@@ -4,6 +4,10 @@ footer {
 	background-color: #000; 
 	color: #fff;
 	padding: 15px;
+
+	a:active, a:visited {
+		color: #fff;
+	} 
 }
 
 ul.posts {
@@ -27,7 +31,7 @@ ul.posts {
 	h5 { font-size: 12px;}
 }
 
-.post-content {
+.post-content, .page-content {
 	padding-bottom: 50px;
 }
 
