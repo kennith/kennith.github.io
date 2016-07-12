@@ -15,8 +15,8 @@ The following are the people I thought are doing some goods for the software dev
 
 [Jeff Posnick](https://github.com/jeffposnick) Service Worker.
 
+[Tom Preston-Werner](https://github.com/mojombo) Github, Jekyll.
+
 [John Resig](https://github.com/jeresig) jQuery and Khan Academy. 
 
 [Sindre Sorhus](https://github.com/sindresorhus) various NPM packages. 
-
-[Tom Preston-Werner](https://github.com/mojombo) Github, Jekyll.
