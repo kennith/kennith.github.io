@@ -7,16 +7,16 @@ permalink: /oos-people/
 The following are the people I thought are doing some goods for the software development community and I think you should know about them.
 
 
-[Mitchell Hashimoto](https://github.com/mitchellh) for his work in Vargant
+[Mitchell Hashimoto](https://github.com/mitchellh) Vargant, HashiCorp.
 
-[Paul Irish](https://github.com/paulirish) for his work with Google Chrome. 
+[Paul Irish](https://github.com/paulirish) Google Chrome Dev Tools. 
 
-[Addy Osmani](https://github.com/addyosmani) for his work in Progressive Web App.
+[Addy Osmani](https://github.com/addyosmani) ToDoMVP, Progressive Web App.
 
-[Jeff Posnick](https://github.com/jeffposnick) for his work in Service Worker.
+[Jeff Posnick](https://github.com/jeffposnick) Service Worker.
 
-[John Resig](https://github.com/jeresig) for his work in jQuery and Khan Academy. 
+[John Resig](https://github.com/jeresig) jQuery and Khan Academy. 
 
-[Sindre Sorhus](https://github.com/sindresorhus) for his work in NPM.
+[Sindre Sorhus](https://github.com/sindresorhus) various NPM packages. 
 
-[Tom Preston-Werner](https://github.com/mojombo) for his work with Jekyll and Github.
+[Tom Preston-Werner](https://github.com/mojombo) Github, Jekyll.
