@@ -1,7 +1,7 @@
 var gulp        = require('gulp');
 var browserSync = require('browser-sync');
 var concat      = require('gulp-concat');
-var sass        = require('gulp-scss');
+var sass        = require('gulp-sass');
 
 gulp.task('default', function() {
 // place code for your default task here
@@ -25,7 +25,6 @@ gulp.task('bootstrap:update', function() {
 * Needs to watch the changes in site?
 */
 gulp.task('watch', function() {
-	var date = new Date();
 	browserSync.init({
 		proxy: "127.0.0.1:4000",
 		online: false,
@@ -33,5 +32,13 @@ gulp.task('watch', function() {
 		open: false,
 		ui: false,
 	});
-	gulp.watch('_site/feed.xml').on('change', browserSync.reload);
+	gulp.watch('_sass/**', ['sass']);
 });
+
+gulp.task('sass', function() {
+	// var files = ;
+	return gulp.src('_sass/main.scss')
+		.pipe(sass().on('error', sass.logError))
+		.pipe(gulp.dest('./_site/css'))
+		.pipe(browserSync.stream());
+})
