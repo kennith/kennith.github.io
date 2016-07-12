@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Google Chrome Dev Summit 2015: Day 2"
-date:   2015-11-18 09:33:11
+date:   2015-11-18
 categories: "google chrome web conference"
 ---
 
