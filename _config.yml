@@ -15,7 +15,10 @@ url: "http://kennith.github.com" # the base hostname & protocol for your site
 twitter_username: kennith
 github_username:  kennith
 
+collections:
+  talks:
+    output: true
+    permalink: /talks/:path/
 # Build settings
 markdown: kramdown
-
 exclude: ['node_modules', 'bower_component', 'gulpfile.js', 'package.json', 'README.md', 'bower.json']
