@@ -1,6 +1,7 @@
 @charset "utf-8";
 @import "syntax-highlighting";
 @import '//fonts.googleapis.com/css?family=Roboto+Mono';
+@import '//fonts.googleapis.com/css?family=Roboto';
 @import "bootstrap-override";
 @import	"../bower_components/bootstrap-sass/assets/stylesheets/bootstrap";
 
@@ -36,6 +37,10 @@ ul.posts {
 	h3 { font-size: 14px;}
 	h4 { font-size: 13px;}
 	h5 { font-size: 12px;}
+}
+
+h1,h2,h3,h4,h5 {
+	font-family: 'Roboto', Arial;
 }
 
 .post-content, .page-content {
