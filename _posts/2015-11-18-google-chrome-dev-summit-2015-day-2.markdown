@@ -5,7 +5,7 @@ date:   2015-11-18
 categories: "google chrome web conference"
 ---
 
-# DevTools
+## DevTools
 1. Make authoring fast, intuitive and fun. 
 	# add color
 	# color palatte
@@ -15,7 +15,7 @@ categories: "google chrome web conference"
 DevTool will be mobile first. The device mode icon is now on the display panel.
 Service Worker moved to as part of the DevTool
 
-# Introduction to RAIL
+## Introduction to RAIL
 R - Response (100ms)
 
 A - Animation (16ms)
