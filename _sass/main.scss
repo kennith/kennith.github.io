@@ -8,14 +8,14 @@
 
 body { padding-top: 60px; }
 
-footer { 
-	background-color: #000; 
+footer {
+	background-color: #000;
 	color: #fff;
 	padding: 15px;
 
 	a:active, a:visited {
 		color: #fff;
-	} 
+	}
 }
 
 ul.posts {
@@ -28,6 +28,13 @@ ul.posts {
 	li {
 		list-style-type: none;
 		padding-bottom: 5px;
+	}
+}
+
+.post {
+	@media(min-width: $screen-xs-max) {
+		margin: auto;
+		max-width: 580px;
 	}
 }
 
