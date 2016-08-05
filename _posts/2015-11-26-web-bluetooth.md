@@ -1,12 +1,8 @@
 ---
 layout: post
 title: Web Bluetooth
-categories: []
-tags: []
-published: True
+date: 2015-11-26
 ---
-
-# Web Bluetooth
 
 The web blue tooth allows web browser to control the blue tooth device. When I was in the Google Chrome Dev Summit in Mountain View, I had a chance to build a web app to control a lamp blue tooth device. I capture the video below to show about how it works.
 
