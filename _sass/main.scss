@@ -31,7 +31,7 @@ ul.posts {
 	}
 }
 
-.post {
+.posts, .post, .page {
 	@media(min-width: $screen-xs-max) {
 		margin: auto;
 		max-width: 580px;
