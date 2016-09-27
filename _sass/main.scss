@@ -38,6 +38,10 @@ ul.posts {
 	}
 }
 
+.post p {
+	line-height: 25px;
+}
+
 @media(max-width: $screen-xs-max) {
 	h1 { font-size: 16px; font-weight: bold;}
 	h2 { font-size: 15px;}
