@@ -1,6 +1,7 @@
 body {
 	margin-top: 30px;
 	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+	background-color: whitesmoke;
 }
 
 .main {
@@ -12,11 +13,13 @@ body {
 .main > img {
 	border-radius: 100px;
 	box-shadow: 0 0 1vh;
+	margin: 15px;
 }
 
 .main > p {
-	padding: 10px;
+	padding: 15px;
 	text-align: left;
+	line-height: 30px;
 }
 
 .main > p.links {
