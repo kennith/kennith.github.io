@@ -1,48 +1,50 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="theme-color" content="#000000">
-    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <title>@kennith - Kennith Leung</title>
 
-    <link rel="stylesheet" href="/css/app.css" crossorigin="anonymous" media="(min-width: 320px)">
-    <link rel="manifest" href="/manifest.json">
-    <link rel="icon" sizes="192x192" href="/launcher-icon-4x.png">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#000000">
+  <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+  <title>@kennith - Kennith Leung</title>
 
-    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
-    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-    <!--[if lt IE 9]>
+  <link rel="stylesheet" href="/css/app.css" crossorigin="anonymous" media="(min-width: 320px)">
+  <link rel="manifest" href="/manifest.json">
+  <link rel="icon" sizes="192x192" href="/launcher-icon-4x.png">
+
+  <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+  <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+  <!--[if lt IE 9]>
       <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
-  </head>
-  <body>
-    <div class="main text-center">
-      <img src="//s.gravatar.com/avatar/261d876ad0b9c8c89367a31bb045584a?s=150" alt="Kennith Leung" class="img-rounded">
-      <h2>Kennith Leung</h2>
+</head>
 
-      <p>Kennith Leung is a software enginner using Laravel to build backend 
-      application, Vue or jQuery for frontend, and use AWS to build infrastructure.</p>
+<body>
+  <div class="main text-center">
+    <img src="//s.gravatar.com/avatar/261d876ad0b9c8c89367a31bb045584a?s=150" alt="Kennith Leung" class="img-rounded">
+    <h2>Kennith Leung</h2>
 
-      <p>A husband, a father of two, plays basketball, and a Christian.</p>
+    <p>Hello, I am Kennith Leung. A full stack developer from California with over 15 years of experience in professional software development.</p>
 
-      <p class="links">
-        <a href="https://twitter.com/kennith"><img class="branding" alt="link to twitter" src="/img/twitter.svg"></a>
-        <a href="https://github.com/kennith"><img class="branding" alt="link to github" src="/img/github.svg"></a>
-        <a href="https://kennith.github.io/blog"><img class="branding" alt="link to wordpress" src="/img/wordpress.svg"></a>
-      </p>
-    </div>
+    <p>I also like playing basketball, swimming, hiking, drink dark coffee, and cooking.</p>
 
-  </body>
-  <script type="text/javascript">
-    if(navigator.serviceWorker) {
-      navigator.serviceWorker.register('/js/sw.js')
-      .catch(function(err) {
+    <p class="links">
+      <a href="https://twitter.com/kennith"><img class="branding" alt="link to twitter" src="/img/twitter.svg"></a>
+      <a href="https://github.com/kennith"><img class="branding" alt="link to github" src="/img/github.svg"></a>
+      <a href="https://kennith.github.io/blog"><img class="branding" alt="link to wordpress" src="/img/wordpress.svg"></a>
+    </p>
+  </div>
+
+</body>
+<script type="text/javascript">
+  if (navigator.serviceWorker) {
+    navigator.serviceWorker.register('/js/sw.js')
+      .catch(function (err) {
         console.error('Unable to register service worker.', err);
       });
-    }
-  </script>
+  }
+</script>
+
 </html>
