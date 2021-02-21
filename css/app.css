@@ -12,7 +12,7 @@ body {
 
 .main > img {
 	border-radius: 100px;
-	box-shadow: 0 0 1vh;
+	box-shadow: 0 0 3px;
 	margin: 15px;
 }
 
