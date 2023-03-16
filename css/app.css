@@ -10,19 +10,19 @@ body {
 	text-align: center;
 }
 
-.main > img {
+.main>img {
 	border-radius: 100px;
-	box-shadow: 0 0 3px;
+	border: 2px grey solid;
 	margin: 15px;
 }
 
-.main > p {
+.main>p {
 	padding: 15px;
 	text-align: left;
 	line-height: 30px;
 }
 
-.main > p.links {
+.main>p.links {
 	text-align: center;
 }
 
